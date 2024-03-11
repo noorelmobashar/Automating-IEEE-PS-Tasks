@@ -1,10 +1,4 @@
-https://polygon.codeforces.com/p7s8vb8/icpcassiut/assiut-newcomers-loops-digits
-https://polygon.codeforces.com/p8B5yzI/icpcassiut/assiut-newcomers-loops-sequence-of-numbers-and-sum
-https://polygon.codeforces.com/p8H15oR/icpcassiut/assiut-newcomers-loops-sum-of-consecutive-odd-numbers
-https://polygon.codeforces.com/p0Aewui/icpcassiut/assiut-newcomers-loops-shape2
-https://polygon.codeforces.com/p7HSTm9/icpcassiut/assiut-newcomers-loops-some-sums
-https://polygon.codeforces.com/p0wGEK3/icpcassiut/assiut-newcomers-loops-pum
-https://polygon.codeforces.com/p2O5N8I/icpcassiut/assiut-newcomers-loops-shape3
-https://polygon.codeforces.com/p0xamqJ/icpcassiut/assiut-newcomers-loops-convert-to-decimal2
-https://polygon.codeforces.com/p6SPacA/icpcassiut/assiut-newcomers-loops-easy-fibonacci
-https://polygon.codeforces.com/p1Nvbyn/icpcassiut/assiut-newcomers-loops-three-numbers
+123A
+123A
+123A
+123A
