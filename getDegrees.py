@@ -49,7 +49,7 @@ def getDegree(session, group):
 
 
     for row in rows:
-        if row and row[1].split()[0] in trainee:
+        if len(row) > 2 and row[1].split()[0] in trainee:
             name = row[1].split()[0]
             if '*' in name: continue
             correct = 0
